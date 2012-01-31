@@ -1,0 +1,8 @@
+weet Menu takes an ordinary unordered list of links and makes it a sweet
+looking menu. It does this by utilizing jQuery and it’s plugin system. Simply
+include the jQuery library, the Sweet Menu plugin, and make a simple jQuery
+call and you are on your way to a sweet looking menu!
+
+For more information about this jQuery plugin visit
+http://adambecker.info/playground/sweet-menu
+
